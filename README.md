@@ -1,2 +1,2 @@
 # Python-Coursera
-My solutions to the Cousera Problems
+My solutions to the Coursera Problems
